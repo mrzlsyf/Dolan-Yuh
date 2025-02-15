@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "40071262339",
+    "project_id": "prakflutterfirebase-20110012",
+    "storage_bucket": "prakflutterfirebase-20110012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40071262339:android:79cdf96abb7b9248502bb6",
+        "android_client_info": {
+          "package_name": "com.example.office_app_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40071262339-f7k3qjs8ujgqliodbonjv8d18lgo4k9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2c-1wBeX8O6otg0WF2ktOZ6mVEsubio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40071262339-f7k3qjs8ujgqliodbonjv8d18lgo4k9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40071262339-lng90f6kr1k02inuiirueu7dmcsjcmq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.praktikum06"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40071262339:android:1405df92d9620a65502bb6",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40071262339-u52hvkvfreeuji5csj3ua51iceu0gtiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praktikum_06",
+            "certificate_hash": "3b85b7a9de7c6ed022d7003b03a4b9ee17bc112b"
+          }
+        },
+        {
+          "client_id": "40071262339-f7k3qjs8ujgqliodbonjv8d18lgo4k9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2c-1wBeX8O6otg0WF2ktOZ6mVEsubio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40071262339-f7k3qjs8ujgqliodbonjv8d18lgo4k9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40071262339-lng90f6kr1k02inuiirueu7dmcsjcmq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.praktikum06"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
